@@ -1,4 +1,4 @@
-import { logout, checkAuth } from './fetch-utils.js';
+import { logout, checkAuth, redirectIfLoggedIn } from './fetch-utils.js';
 
 
 
